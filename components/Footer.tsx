@@ -5,7 +5,7 @@ export default function Footer() {
       style={{ backgroundColor: '#1a1f2e', color: '#9ca3af' }}
     >
       <span>Lloyd Hhannes Sanchez.</span>
-      <span>© 2025 Your Name. All rights reserved.</span>
+      <span>© 2026 Lloyd Hhannes Sanchez. All rights reserved.</span>
     </footer>
   )
 }
